@@ -1,94 +1,130 @@
 {
-  "Toan_va_Thong_ke": [
-    "Toan tin",
-    "Toan ung dung",
-    "Khoa hoc tinh toan",
-    "Toan hoc",
-    "Thong ke"
+  "Toán và thống kê": [
+    "Ngành Toán tin",
+    "Ngành Toán ứng dụng",
+    "Ngành Khoa học tính toán",
+    "Ngành Toán học",
+    "Ngành Thống kê"
   ],
-  "Thu_y": [
-    "Thu y"
+  "Thú y": [
+    "Ngành Thú y"
   ],
-  "Suc_khoe": [
-    "Quan ly benh vien",
-    "To chuc va quan ly y te",
-    "Y da khoa",
-    "Dieu duong",
-    "Hoa duoc",
-    "Duoc hoc",
-    "Y hoc co truyen",
-    "Y hoc du phong",
-    "Y te cong cong",
-    "Ky thuat phuc hoi chuc nang",
-    "Ky thuat hinh anh y hoc",
-    "Ky thuat xet nghiem y hoc",
-    "Ky thuat phuc hinh rang",
-    "Rang - Ham - Mat",
-    "Dinh duong",
-    "Ho sinh"
+  "Sức khoẻ": [
+    "Ngành Quản lý bệnh viện",
+    "Ngành Tổ chức và quản lý y tế",
+    "Ngành Y đa khoa",
+    "Ngành Điều dưỡng",
+    "Ngành Hóa dược",
+    "Ngành Dược học",
+    "Ngành Y học cổ truyền",
+    "Ngành Y học dự phòng",
+    "Ngành Y tế công cộng",
+    "Ngành Kỹ thuật phục hồi chức năng",
+    "Ngành Kỹ thuật hình ảnh y học",
+    "Ngành Kỹ thuật xét nghiệm y học",
+    "Ngành Kỹ thuật phục hình răng",
+    "Ngành Răng - Hàm - Mặt",
+    "Ngành Dinh dưỡng",
+    "Ngành Hộ sinh"
   ],
-  "San_xuat_va_Che_bien": [
-    "Cong nghe da giay",
-    "Cong nghe vat lieu det, may",
-    "Cong nghe soi, det",
-    "Cong nghe che bien lam san",
-    "Cong nghe det, may",
-    "Dam bao chat luong va an toan thuc pham",
-    "Cong nghe che bien thuy san",
-    "Cong nghe sau thu hoach",
-    "Ky thuat thuc pham",
-    "Cong nghe thuc pham"
+  "Sản xuất và chế biến": [
+    "Ngành Công nghệ da giày",
+    "Ngành Công nghệ vật liệu dệt, may",
+    "Ngành Công nghệ sợi, dệt",
+    "Ngành Công nghệ chế biến lâm sản",
+    "Ngành Công nghệ dệt, may",
+    "Ngành Đảm bảo chất lượng và an toàn thực phẩm",
+    "Ngành Công nghệ chế biến thuỷ sản",
+    "Ngành Công nghệ sau thu hoạch",
+    "Ngành Kỹ thuật thực phẩm",
+    "Ngành Công nghệ thực phẩm"
   ],
-  "Phap_luat": [
-    "Luat quoc te",
-    "Luat kinh te",
-    "Luat"
+  "Pháp luật": [
+    "Ngành Luật quốc tế",
+    "Ngành Luật kinh tế",
+    "Ngành Luật"
   ],
-  "Nong_lam_nghiep_va_Thuy_san": [
-    "Cong nghe nong nghiep",
-    "Lam sinh",
-    "Quan ly thuy san",
-    "Khai thac thuy san",
-    "Benh hoc thuy san",
-    "Nuoi trong thuy san",
-    "Phat trien nong thon",
-    "Kinh te nong nghiep",
-    "Kinh doanh nong nghiep",
-    "Cong nghe rau hoa qua va canh quan",
-    "Bao ve thuc vat",
-    "Khoa hoc cay trong",
-    "Nong hoc",
-    "Chan nuoi",
-    "Khoa hoc dat",
-    "Khuyen nong",
-    "Nong nghiep",
-    "Lam hoc",
-    "Quan ly tai nguyen rung",
-    "Lam nghiep do thi"
+  "Nhân văn": [
+    "Ngành Ngôn ngữ Anh",
+    "Ngành Ngôn ngữ Pháp",
+    "Ngành Ngôn ngữ Hàn Quốc",
+    "Ngành Ngôn ngữ Nhật",
+    "Ngành Ngôn ngữ Trung Quốc"
   ],
-  "Nhan_van": [
-    "Ngon ngu Khmer",
-    "Han Nom",
-    "Tieng Viet va van hoa Viet Nam",
-    "Van hoa cac dan toc thieu so Viet Nam",
-    "Sang tac Van hoc",
-    "Ngon ngu A Rap",
-    "Ngon ngu Han Quoc",
-    "Ngon ngu Nhat",
-    "Ngon ngu Bo Dao Nha",
-    "Ngon ngu Tay Ban Nha",
-    "Ngon ngu Trung Quoc",
-    "Ngon ngu Duc",
-    "Ngon ngu Phap",
-    "Ngon ngu Nga",
-    "Ngon ngu Anh",
-    "Quan ly van hoa",
-    "Van hoa hoc",
-    "Van hoc",
-    "Ngon ngu hoc",
-    "Lich su",
-    "Ton giao hoc",
-    "Chu nghia xa hoi khoa hoc",
-    "Triet hoc"
+  "Khoa học tự nhiên": [
+    "Ngành Khoa học vật liệu",
+    "Ngành Hóa học",
+    "Ngành Cơ học",
+    "Ngành Vật lý nguyên tử và hạt nhân",
+    "Ngành Vật lý học",
+    "Ngành Thiên văn học",
+    "Ngành Hải dương học",
+    "Ngành Thủy văn học",
+    "Ngành Khí tượng và khí hậu học",
+    "Ngành Địa lý tự nhiên",
+    "Ngành Địa chất học",
+    "Ngành Bản đồ học",
+    "Ngành Khoa học môi trường"
+  ],
+  "Khoa học sự sống": [
+    "Ngành Kỹ thuật sinh học",
+    "Ngành Sinh học ứng dụng",
+    "Ngành Công nghệ sinh học",
+    "Ngành Sinh học"
+  ],
+  "Du lịch, khách sạn, thể thao và dịch vụ cá nhân": [
+    "Ngành Quản lý thể dục thể thao",
+    "Ngành Quản trị nhà hàng và dịch vụ ăn uống",
+    "Ngành Quản trị khách sạn",
+    "Ngành Kinh tế gia đình",
+    "Ngành Y sinh học thể dục thể thao",
+    "Ngành Quản trị dịch vụ du lịch và lữ hành",
+    "Ngành Du lịch"
+  ],
+  "Dịch vụ xã hội": [
+    "Ngành Công tác thanh thiếu niên",
+    "Ngành Công tác xã hội"
+  ],
+  "Dịch vụ vận tải": [
+    "Ngành Khoa học hàng hải",
+    "Ngành Kinh tế vận tải",
+    "Ngành Quản lý hoạt động bay",
+    "Ngành Khai thác vận tải"
+  ],
+  "Công nghệ kỹ thuật": [
+    "Ngành Công nghệ giáo dục",
+    "Ngành Công nghệ Logistics",
+    "Ngành Kỹ thuật sản xuất thông minh",
+    "Ngành Robot và Trí tuệ nhân tạo",
+    "Ngành Công nghệ kỹ thuật điện, điện tử",
+    "Ngành Kỹ thuật in",
+    "Ngành Công nghệ kỹ thuật ô tô",
+    "Ngành Kỹ thuật tàu thuỷ",
+    "Ngành Kỹ thuật nhiệt",
+    "Ngành Kỹ thuật cơ điện tử",
+    "Ngành Kỹ thuật cơ khí",
+    "Ngành Công nghệ kỹ thuật vật liệu xây dựng",
+    "Ngành Công nghệ kỹ thuật công trình xây dựng",
+    "Ngành Công nghệ kỹ thuật giao thông",
+    "Ngành Công nghệ kỹ thuật kiến trúc",
+    "Ngành Bảo dưỡng công nghiệp",
+    "Ngành Công nghệ chế tạo máy",
+    "Ngành Quản lý công nghiệp",
+    "Ngành Kinh tế công nghiệp",
+    "Ngành Logistics và Quản lý chuỗi cung ứng"
+  ],
+  "Báo chí và thông tin": [
+    "Ngành Kinh doanh xuất bản phẩm",
+    "Ngành Xuất bản",
+    "Ngành Bảo tàng học",
+    "Ngành Lưu trữ học",
+    "Ngành Quản lý thông tin",
+    "Ngành Thông tin - thư viện",
+    "Ngành Quan hệ công chúng",
+    "Ngành Truyền thông quốc tế",
+    "Ngành Công nghệ truyền thông",
+    "Ngành Truyền thông đại chúng",
+    "Ngành Truyền thông đa phương tiện",
+    "Ngành Báo chí"
   ]
 }
