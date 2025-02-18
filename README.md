@@ -1,6 +1,6 @@
 # KLTN_DoQuangAnh
 # Hệ thống gợi ý lộ trình và kỹ năng phát triển dựa trên nghề nghiệp mong muốn
-
+https://onlinelibrary.wiley.com/doi/epdf/10.1111/peps.12529
 ## Giới thiệu
 Hệ thống giúp người dùng định hướng nghề nghiệp bằng cách cung cấp thông tin về các ngành nghề tại Việt Nam, lộ trình phát triển và các kỹ năng cần thiết. Đồng thời, hệ thống sử dụng AI để đề xuất ngành nghề phù hợp dựa trên bài kiểm tra đánh giá.
 
